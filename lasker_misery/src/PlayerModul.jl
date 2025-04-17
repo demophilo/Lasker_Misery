@@ -1,6 +1,6 @@
 module PlayerModule
 
-export Player, input_Players
+export Player, input_Players, create_player
 
 mutable struct Player
     name::String

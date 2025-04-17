@@ -1,3 +1,5 @@
+module main
+    
 include("screen.jl")
 using .screen
 
@@ -30,6 +32,6 @@ while !is_won
         end
     end
 end
-
+end
 
 

@@ -1,4 +1,6 @@
-name = "lasker_misery"
+name = "main_nim"
 uuid = "38f88141-b738-4439-a7b4-fdb8bd98a7d5"
 authors = ["Karl Linek <karl@linek.at>"]
 version = "0.1.0"
+
+
